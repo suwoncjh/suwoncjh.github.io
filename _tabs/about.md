@@ -27,13 +27,13 @@ Mar. 2010 - Feb. 2016
 Projects
 -----------------
 
-[Sound source tracking for robot vacuum]
+Sound source tracking for robot vacuum
 : Deep neural network based noise suppression, sound event detection, and source tracking (with LG Electronics)
-: Demo video(https://www.youtube.com/watch?v=HFRmw0OqxxY)
+: [Demo video](https://www.youtube.com/watch?v=HFRmw0OqxxY)
 
-[Two-to-five channel audio upmixing]
+Two-to-five channel audio upmixing
 : Two-to-five channel upmixing using deep neural network based primary-ambient separation (with LG Display)
-: Journal paper(https://www.aes.org/e-lib/browse.cfm?elib=21008)
+: [Journal paper](https://www.aes.org/e-lib/browse.cfm?elib=21008)
 
 [Multi-channel speech enhancement for distant speech recognition]
 : Multi-channel speech enhancement system including noise suppression, echo cancellation, voice activity detection, and automatic gain control (with SK Telecom)
@@ -44,7 +44,7 @@ Challenges
 [Sound event localization and detection (DCASE2019 Task3)]
 : My contribution was developing a multiple sound source localization system.
 : Team ranking: (8/23)
-: Localization ranking (1/23)(http://dcase.community/challenge2019/task-sound-event-localization-and-detection-results)
+: Localization ranking [(1/23)](http://dcase.community/challenge2019/task-sound-event-localization-and-detection-results)
 
 Skills
 ------
