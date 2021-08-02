@@ -6,9 +6,9 @@ order: 4
 
 Jeonghwan Choi
 ===========
-> I am a Ph. D. candidate in the Deparment of Electronic Engineering at Hanyang University. |
-> My research interests mainly focus on sound source localization and beamforming using deep learning. |
-
+> I am a Ph. D. candidate in the Deparment of Electronic Engineering at Hanyang University.
+> My research interests mainly focus on sound source localization and beamforming using deep learning.
+> I have a lot of experience of speech enhancemen
 > [suwoncjh@gmail.com](mailto:suwoncjh@gmail.com) |
 > Seoul, Republic of Korea
 
@@ -28,14 +28,19 @@ Mar. 2010 - Feb. 2016
 Projects
 -----------------
 
-[Project 1](https://github.com/username/project1)
-:   Project 1 description
+[Sound source tracking for robot vacuum](https://github.com/username/project3)
+: Project 3 description (LG Electronics)
+: Demo video(https://www.youtube.com/watch?v=HFRmw0OqxxY)
 
-[Project 2](https://github.com/username/project2)
-:   Project 2 description
+[Audio upmixing system](https://github.com/username/project2)
+:   Project 2 description (LG Display)
 
-[Project 3](https://github.com/username/project3)
-:   Project 3 description
+[Multi-channel speech enhancement for distant speech recognition](https://github.com/username/project1)
+: Multi-channel speech enhancement for distant speech recognition  (SK Telecom)
+
+[DCASE2019 Task3]
+: 
+: 
 
 Skills
 ------
