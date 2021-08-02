@@ -21,7 +21,7 @@ Mar. 2010 - Feb. 2016
 :   **Hanyang University**
 
     - Bachelor's Degree
-
+	- I sereved in the air force from Jan. 2012 to Jan. 2014.
 
 Projects
 -----------------
