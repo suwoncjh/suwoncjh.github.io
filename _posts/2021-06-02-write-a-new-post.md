@@ -4,7 +4,6 @@ author: Jeonghwan Choi
 date: 2021-06-02 14:10:00 +0800
 categories: [Blogging, test]
 tags: [audio]
-comments: true
 ---
 
 ## Naming and Path
