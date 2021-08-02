@@ -1,15 +1,14 @@
 ---
 title: Writing a New Post
 author: Jeonghwan Choi
-date: 2021-08-02 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+date: 2021-06-02 14:10:00 +0800
+categories: [Test, Tutorial]
+tags: [Audio]
 ---
 
 ## Naming and Path
 
-Create a new file named `YYYY-MM-DD-TITLE.EXTENSION` and put it in the `_posts/` of the root directory. Please note that the `EXTENSION` must be one of `md` and `markdown`.
-
+This is also test page.
 ## Front Matter
 
 Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:
