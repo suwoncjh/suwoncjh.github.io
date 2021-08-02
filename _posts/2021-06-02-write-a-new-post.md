@@ -2,8 +2,8 @@
 title: Writing a New Post
 author: Jeonghwan Choi
 date: 2021-06-02 14:10:00 +0800
-categories: [Test, Tutorial]
-tags: [Audio]
+categories: [Blogging, test]
+tags: [audio]
 ---
 
 ## Naming and Path
