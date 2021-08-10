@@ -44,9 +44,9 @@ Two-to-five channel audio upmixing (May 2017 - Apr. 2018)
 - 원거리 음성인식을 위한 환경 왜곡 보상 시스템 개발 (16년 3월 ~ 16년 12월)	SK텔레콤(주)
 - 원거리 음성인식을 위한 멀티채널 전처리 시스템 개발 (15년 9월 ~ 15년 12월) SK텔레콤(주)
 
-Challenges
+Challenge
 -----------------
-[Sound event localization and detection (DCASE2019 Task3)] 
+- Sound event localization and detection (DCASE2019 Task3)] 
 : My contribution was developing a multiple sound source localization system.
 : Team ranking: (8/23)
 : Localization ranking [(1/23)](http://dcase.community/challenge2019/task-sound-event-localization-and-detection-results)
