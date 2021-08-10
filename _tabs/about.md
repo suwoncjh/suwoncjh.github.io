@@ -38,7 +38,7 @@ Two-to-five channel audio upmixing (May 2017 - Apr. 2018)
 : Multi-channel speech enhancement system including noise suppression, echo cancellation, voice activity detection, and automatic gain control (with SK Telecom) -->
 - TWS향 audio context awareness 및 sound separation	(21년 7월 ~ 22년 6월) 삼성전자(주)
 - Neural Beamformer에 기반한 Speech Enhancement 기술 (21년 3월 ~ 21년 8월) NOS(주)
-- AI기반 전처리 기술을 통한 사용자 트랙킹 고도화	(20년 3월 ~ 20년 11월) LG전자(주)[Demo video](https://www.youtube.com/watch?v=HFRmw0OqxxY){:target="_blank"}
+- AI기반 전처리 기술을 통한 사용자 트랙킹 고도화	(20년 3월 ~ 20년 11월) LG전자(주) [Demo video](https://www.youtube.com/watch?v=HFRmw0OqxxY)
 - 로봇 원거리 음성인식을 위한 AI 전처리 기술	(19년 7월 ~ 19년 8월)	휴림로봇(주)
 - Contents adaptive up/down mixing 오디오 신호처리 SW개발 (17년 5월 ~ 18년 4월) LG디스플레이(주) [Journal paper](https://www.aes.org/e-lib/browse.cfm?elib=21008){:target="_blank"}
 - 원거리 음성인식을 위한 환경 왜곡 보상 시스템 개발 (16년 3월 ~ 16년 12월)	SK텔레콤(주)
