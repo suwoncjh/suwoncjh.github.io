@@ -47,9 +47,9 @@ Two-to-five channel audio upmixing (May 2017 - Apr. 2018)
 Challenge
 -----------------
 - Sound event localization and detection (DCASE2019 Task3)] 
--- My contribution was developing a multiple sound source localization system.
-: Team ranking: (8/23)
-: Localization ranking [(1/23)](http://dcase.community/challenge2019/task-sound-event-localization-and-detection-results)
+  - My contribution was developing a multiple sound source localization system.
+  - Team ranking: (8/23)
+  - Localization ranking [(1/23)](http://dcase.community/challenge2019/task-sound-event-localization-and-detection-results)
 
 Skills
 ------
