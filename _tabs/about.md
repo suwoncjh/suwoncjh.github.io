@@ -6,7 +6,7 @@ order: 4
 
 Jeonghwan Choi
 ===========
-> I am a Ph. D. candidate in the Deparment of Electronic Engineering at Hanyang University. My research interests mainly focus on sound source localization and beamforming using deep learning.
+> I am a Ph. D. candidate in the Deparment of Electronic Engineering at Hanyang University. My research interests mainly focus on speech enhancement using deep learning.
 
 > [suwoncjh@gmail.com](mailto:suwoncjh@gmail.com) |
 > Seoul, Republic of Korea
