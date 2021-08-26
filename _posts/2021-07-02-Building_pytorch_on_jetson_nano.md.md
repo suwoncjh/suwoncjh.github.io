@@ -20,7 +20,7 @@ Neural network 모델의 inference time을 줄이는 가장 간단한 방법으�
 
 해결방안:
 - pytorch를 qnnpack 옵션을 주어 다시 source부터 build  
-- [1][1]을 참고했으며 빌드 옵션줄 때 qnnpack off 를 on으로 변경  
+- [1] [1]을 참고했으며 빌드 옵션줄 때 qnnpack off 를 on으로 변경  
 
 Reference  
 [1]: https://qengineering.eu/install-pytorch-on-jetson-nano.html
