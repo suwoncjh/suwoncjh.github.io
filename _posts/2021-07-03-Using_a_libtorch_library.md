@@ -8,8 +8,8 @@ tags: [C++, pytorch, libtorch]
 
 최근 Endpoint AI, TinyML등 임베디드 기기에서 neural network 모델을 활용하는 시도가 많이 소개되고있다.  
 Neural network 모델을 개발할 때에는 주로 Python 환경에서 Pytorch나 Tensorflow와 같은 패키지를 사용하는데 임베디드 기기에서는 일반적으로 C나 C++을 주로 활용하기 때문에 모델 학습할 때와 inference 할 때 각각 사용되는 언어가 다르다는 문제가 있다.    
-Libtorch는 Pytorch의 C++ 버전으로 Pytorch를 이용해 학습한 모델을 C++에서도 laod하여 infernce할 수 있게 해줄 뿐만아니라 직접 새로운 모델 구성 및 학습도 가능하다.([소개영상](https://www.youtube.com/watch?v=auRPXMMHJzc)하지만 특수한 경우가 아니라면 C++환경에서 모델을 직접 학습시키는것 보다는 주로 inference를 위한 목적으로만 활용될 것 같다.) 
-
+Libtorch는 Pytorch의 C++ 버전으로 Pytorch를 이용해 학습한 모델을 C++에서도 laod하여 infernce할 수 있게 해줄 뿐만아니라 직접 새로운 모델 구성 및 학습도 가능하다.(하지만 특수한 경우가 아니라면 C++환경에서 모델을 직접 학습시키는것 보다는 주로 inference를 위한 목적으로만 활용될 것 같다.)  
+["Machine Learning in C++ with PyTorch"](https://www.youtube.com/watch?v=auRPXMMHJzc)  
 # 1. Libtorch 다운로드
 
 Libtorch 라이브러리는 [Pytorch 홈페이지](https://pytorch.org/) 메인에서 다운 받을 수 있다. 
