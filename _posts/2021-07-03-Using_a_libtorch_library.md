@@ -13,7 +13,7 @@ Libtorch는 Pytorch의 C++ 버전으로 Pytorch를 이용해 학습한 모델을
 
 # 1. Libtorch 다운로드
 
-Libtorch 라이브러리는 [Pytorch 홈페이지](https://pytorch.org/){:target="_blank"} 메인에서 다운 받을 수 있다. 
+Libtorch 라이브러리는 [Pytorch 홈페이지](https://pytorch.org/) 메인에서 다운 받을 수 있다. 
 
 ![img1](/assets/img/favicons/libtorch.png)
 
