@@ -17,9 +17,9 @@ Neural network 모델의 inference time을 줄이는 가장 간단한 방법으�
 
 원인: 
 - 빌드되어 배포되는 jetson 용 pytorch에는 ARM프로세서 ([Jetson nano](https://developer.nvidia.com/embedded/jetson-nano)는 ARM cortex A57 CPU가 탑재되어있음)를 위한 quantization backend인 qnnpack이 없었음  
-
+  
 해결방안:
-- pytorch를 qnnpack 옵션을 주어 다시 source부터 build  
+- pytorch를 qnnpack 옵션을 주어 다시 source부터 build   
 - [1]을 참고했으며 빌드 옵션줄 때 qnnpack off 를 on으로 변경  
 
 Reference  
