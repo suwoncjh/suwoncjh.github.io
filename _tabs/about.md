@@ -21,7 +21,7 @@ Mar. 2016 - present
 Mar. 2010 - Feb. 2016
 :   **Hanyang University**
 
-    - B.S. Degree in electronics engineering
+    - B.S. Degree in electronic engineering
 	- I sereved in the air force from Jan. 2012 to Jan. 2014.
 
 Research Projects
